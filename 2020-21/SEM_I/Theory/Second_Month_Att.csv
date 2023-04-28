@@ -1,0 +1,66 @@
+,Roll No,Name of Student,2020-09-10 00:00:00,2020-09-11 00:00:00,2020-09-14 00:00:00,2020-09-17 00:00:00,2020-09-18 00:00:00,2020-09-21 00:00:00,2020-09-24 00:00:00,2020-09-25 00:00:00,2020-09-28 00:00:00,2020-10-01 00:00:00,2020-10-02 00:00:00,2020-10-05 00:00:00,Present,Absent,%Att,UT1,PREL
+0,4201,Kshirsagar Rohan Umesh,P,P,P,P,P,P,P,P,A,P,P,P,11,1,91.67,11,56
+1,4202,Kshirsagar Saurabh Bhaskarrao,P,P,P,A,P,P,P,A,P,P,P,P,10,2,83.33,13,53
+2,4203,Kulkarni Chinmay Sudhir,P,P,P,P,P,P,P,P,A,A,P,A,9,3,75.0,20,62
+3,4204,Kulkarni Vedant Shrikant,A,P,P,P,P,P,P,P,P,P,P,P,11,1,91.67,29,50
+4,4205,Kumkar Yadnesh Vishnu,P,P,P,P,P,P,P,P,P,P,A,P,11,1,91.67,16,26
+5,4206,Late Himanshu Ramesh,P,P,P,P,P,P,P,P,P,P,A,P,11,1,91.67,20,51
+6,4207,Lohot Yogesh Devidas,P,P,A,P,A,P,P,P,P,P,P,P,10,2,83.33,24,55
+7,4208,Lonkar Soham Sanjay,P,P,P,P,P,A,A,A,P,P,P,A,8,4,66.67,10,36
+8,4209,Kalaskar Abhishek Balasaheb,P,P,P,P,P,P,P,P,P,P,A,A,10,2,83.33,22,47
+9,4210,Mahajan Vedansh Ramkrishna,P,P,P,A,A,P,P,P,P,A,A,P,8,4,66.67,25,64
+10,4211,Mahamuni Arjun Sanjiv,P,P,P,P,P,P,A,P,P,P,P,P,11,1,91.67,20,42
+11,4212,Mali Kalpesh Rajesh,P,P,P,A,P,P,P,P,P,P,A,A,9,3,75.0,10,50
+12,4213,Mali Nikhil Pandurang,P,A,P,A,P,P,P,P,P,P,P,A,9,3,75.0,16,61
+13,4214,Mhaske Aditya Dattatraya,A,P,P,P,P,P,P,P,P,P,P,P,11,1,91.67,29,50
+14,4215,Nage Rohit Ravindra,P,P,P,P,P,P,P,P,P,P,P,A,11,1,91.67,27,64
+15,4216,Nimbalkar Shrihari Vilas,P,P,P,A,A,P,P,P,A,P,P,A,8,4,66.67,15,58
+16,4217,Panchal Mukesh Govind,A,P,P,P,P,A,P,P,P,P,P,P,10,2,83.33,26,29
+17,4218,Pandav Ashishkumar Laxman,P,P,P,P,P,P,P,P,A,P,P,P,11,1,91.67,26,41
+18,4219,Patil Akshay Dattatraya,P,P,P,P,P,P,A,P,P,P,P,P,11,1,91.67,23,55
+19,4220,Patil Piyush,P,P,P,P,P,P,P,P,P,A,P,P,11,1,91.67,15,38
+20,4221,Pawar Nilesh Anil,P,P,P,A,P,P,P,P,P,P,P,P,11,1,91.67,13,51
+21,4222,Ashish Vilas Ghodke,A,P,P,P,P,A,P,P,A,P,P,P,9,3,75.0,11,65
+22,4223,Prathamesh Tukaram Bhor,P,P,P,P,A,P,P,A,P,P,P,P,10,2,83.33,26,28
+23,4224,Rakshit Ranu ,P,P,P,A,P,P,P,P,A,P,P,P,10,2,83.33,28,60
+24,4225,Rasane Swanand Anjali,P,P,P,P,P,P,P,P,P,P,P,A,11,1,91.67,12,29
+25,4226,Raskar Shubham Bhausaheb,P,P,P,P,P,P,P,A,P,A,P,P,10,2,83.33,17,62
+26,4227,Rokade Mandar Anil,A,P,P,P,P,P,A,P,P,P,P,P,10,2,83.33,14,31
+27,4228,Rushikesh Vijay Gore,P,P,P,P,P,P,P,P,P,P,P,P,12,0,100.0,26,37
+28,4229,Sathaye Pranav Rajendra,P,P,P,P,P,P,A,P,P,P,A,P,10,2,83.33,20,64
+29,4230,Sonne Abhijeet Deepak,P,A,P,P,P,P,A,P,P,P,P,P,10,2,83.33,13,62
+30,4231,Suraj Milind Ghadge,P,P,P,P,P,A,A,P,P,A,P,P,9,3,75.0,22,41
+31,4232,Taskar Prasad Sanjay,P,P,P,P,P,P,P,P,A,P,P,P,11,1,91.67,14,65
+32,4233,Tayade Darshan Madhukar,P,P,P,A,P,P,P,P,P,P,P,A,10,2,83.33,21,42
+33,4234,Thorat Vaibhav Anant,P,P,P,P,P,P,P,A,P,A,A,P,9,3,75.0,24,34
+34,4235,Varpe Bhushan Dattatrya,A,A,P,P,P,P,P,P,P,P,P,P,10,2,83.33,11,62
+35,4236,Vitkar Mangesh Ganesh,P,P,P,P,P,A,P,A,P,P,P,A,9,3,75.0,18,59
+36,4237,Khatri Shrihari Gurudayal,P,P,P,P,P,P,P,P,P,P,P,P,12,0,100.0,28,64
+37,4238,Wagh Sujit Santosh,A,P,P,P,P,P,P,A,P,P,A,P,9,3,75.0,20,54
+38,4239,Wankhade Kunal Gopal,A,A,P,P,P,P,A,P,A,P,P,P,8,4,66.67,20,53
+39,4240,Yadav Rohan Suresh,P,P,P,P,P,P,A,A,A,P,P,P,9,3,75.0,11,52
+40,4241,Mahajan Malhar Mahesh,P,P,P,P,P,P,P,P,P,P,P,P,12,0,100.0,13,54
+41,4242,Munfan Akash Ramrao,P,P,P,P,A,P,A,P,P,P,P,P,10,2,83.33,15,57
+42,4243,Sakhare Ajinkya Girish,P,P,P,P,P,A,P,P,P,P,A,P,10,2,83.33,24,46
+43,4244,Adhav Rushikesh Rajendra,A,P,P,P,P,P,P,P,P,A,P,P,10,2,83.33,28,52
+44,4245,Joshi Atharva Jayant,A,P,P,A,A,P,P,P,P,P,P,P,9,3,75.0,24,40
+45,4246,Marne Prachi Sandeep,P,A,P,P,P,P,P,P,P,P,P,A,10,2,83.33,29,58
+46,4247,Barhate Bhushan Dnyandeo,P,P,P,P,A,P,P,P,P,P,P,P,11,1,91.67,18,58
+47,4248,Pawar Nikhil Shahaji,P,A,P,P,P,P,P,P,P,P,P,P,11,1,91.67,20,47
+48,4249,Kale Dnyaneshwar Raosaheb,P,P,P,P,P,P,P,P,P,A,P,P,11,1,91.67,16,40
+49,4250,Hrushikesh Kishor Padal,P,P,P,P,P,A,P,P,P,P,P,A,10,2,83.33,28,48
+50,4251,Vishwadeep Vishnu Budhawant,P,P,P,P,P,P,A,P,P,P,P,P,11,1,91.67,15,50
+51,4252,Chatane Pranav Sudhir,A,P,P,P,P,A,P,P,P,P,P,P,10,2,83.33,14,42
+52,4253,Chintamani Harsh Santosh,P,P,P,P,P,P,P,P,P,P,A,P,11,1,91.67,18,51
+53,4254,Lawate Shashikant Muktaram,A,A,P,P,P,P,P,P,P,P,P,P,10,2,83.33,23,61
+54,4255,Abhishek Sunil Labade,A,P,P,P,P,P,P,A,P,A,P,A,8,4,66.67,28,41
+55,4256,Karishma Shah,P,P,P,A,P,P,P,A,A,P,P,P,9,3,75.0,17,61
+56,4257,Vasu Zutshi,P,P,P,P,P,P,A,P,P,P,P,P,11,1,91.67,26,33
+57,4258,Yashraj Patil,P,A,P,P,P,P,P,P,A,P,A,P,9,3,75.0,21,35
+58,4259,Rajesh Santosh Chavan,P,P,P,P,A,P,A,P,P,A,P,P,9,3,75.0,23,26
+59,4260,Revati Tushar Tadge,P,P,P,P,P,P,P,P,P,P,P,A,11,1,91.67,29,41
+60,4261,Kulkarni Sushil Nandkumar,A,P,P,P,P,P,P,P,A,P,A,A,8,4,66.67,30,28
+61,4262,Saurabh Parmeshwar Borude,P,P,A,P,A,P,P,P,P,P,P,P,10,2,83.33,11,29
+62,4263,Suyesh Laxmikant Pillewar,P,P,A,P,P,P,P,P,P,P,P,P,11,1,91.67,13,60
+63,4264,Jungade Pranav Prashant,P,A,A,P,P,A,P,P,P,P,P,P,9,3,75.0,27,40
+64,4265,Sanjay  Pandey,P,P,A,P,A,P,P,P,P,P,P,P,10,2,83.33,24,33
