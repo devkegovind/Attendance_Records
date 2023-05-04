@@ -1,25 +1,25 @@
-,Roll No,Name of Students,1,2,3,4,5,6,7,8,Present1,Absent1,%Att1,EXP1,EXP2,EXP3,EXP4,EXP5,EXP6,EXP7,EXP8,A,B,C,D,E,F,G,H
-40,3249,Vitkar Mangesh Ganesh,P,P,P,P,P,P,P,P,8,0,100.0,6,6,10,8,8,10,7,9,C,C,C,C,C,C,C,C
-41,3250,Khatri Shrihari Gurudayal,P,P,P,A,P,P,P,P,7,1,87.5,10,8,10,8,9,6,10,6,C,C,C,C,C,C,NC,C
-42,3251,Wagh Sujit Santosh,P,P,P,P,P,P,P,P,8,0,100.0,9,10,10,9,6,6,6,8,C,C,C,C,C,C,NC,C
-43,3252,Wankhade Kunal Gopal,P,P,P,P,P,P,P,P,8,0,100.0,6,10,10,6,6,10,8,7,C,C,C,C,C,C,C,C
-44,3253,Yadav Rohan Suresh,P,P,P,P,P,P,P,P,8,0,100.0,6,7,10,10,8,6,8,6,NC,NC,C,C,C,NC,C,C
-45,3254,Yermal Ozair ,P,P,P,P,P,P,P,P,8,0,100.0,8,7,8,9,8,8,9,8,C,C,C,C,C,C,C,C
-46,3255,Mahajan Malhar Mahesh,P,A,P,P,P,P,P,A,6,2,75.0,6,7,6,8,7,10,9,8,NC,NC,C,NC,C,C,C,C
-47,3256,Munfan Akash Ramrao,P,P,P,P,P,P,P,P,8,0,100.0,8,8,8,8,9,10,6,9,C,C,C,C,C,C,NC,C
-48,3257,Sakhare Ajinkya Girish,P,A,P,P,P,P,P,P,7,1,87.5,9,6,10,6,8,6,10,6,C,C,C,C,C,C,C,C
-49,3258,Adhav Rushikesh Rajendra,P,P,P,P,P,P,P,P,8,0,100.0,9,8,9,9,9,9,10,9,C,C,C,C,C,C,C,C
-50,3259,Joshi Atharva Jayant,A,P,P,P,P,P,A,P,6,2,75.0,8,8,7,6,10,7,7,9,C,C,C,C,C,C,C,C
-51,3260,Marne Prachi Sandeep,P,P,P,P,P,P,P,P,8,0,100.0,7,6,9,6,9,6,10,8,C,NC,C,C,C,C,C,C
-52,3261,Barhate Bhushan Dnyandeo,P,P,P,P,P,P,P,P,8,0,100.0,8,9,9,10,7,8,9,6,C,NC,NC,C,C,C,C,C
-53,3262,Pawar Nikhil Shahaji,P,P,P,P,P,P,P,P,8,0,100.0,10,8,9,6,6,6,8,6,NC,NC,C,C,C,C,C,C
-54,3263,Ankita Prakash Thakurdware,P,P,P,P,P,P,P,A,7,1,87.5,7,6,9,6,6,8,6,8,C,C,C,C,C,C,C,C
-55,3264,Kale Dnyaneshwar Raosaheb,P,P,A,P,P,P,P,P,7,1,87.5,9,10,6,8,10,6,6,6,C,NC,C,C,C,C,C,C
-56,3265,Hrushikesh Kishor Padal,P,P,P,P,P,P,P,P,8,0,100.0,6,10,6,6,10,6,10,6,NC,C,C,C,C,C,C,C
-57,3266,Vishwadeep Vishnu Budhawant,P,P,P,P,A,P,P,P,7,1,87.5,8,8,7,9,8,8,6,6,C,C,C,C,NC,C,C,C
-58,3267,Chatane Pranav Sudhir,A,P,P,P,P,P,P,P,7,1,87.5,8,8,6,6,10,6,6,9,C,C,C,C,C,C,C,C
-59,3268,Chintamani Harsh Santosh,P,P,P,P,A,P,P,P,7,1,87.5,6,10,6,6,10,8,8,6,C,C,C,NC,C,C,C,C
-60,3269,Lawate Shashikant Muktaram,P,P,P,A,P,P,P,P,7,1,87.5,10,10,6,6,9,6,9,8,C,C,C,C,C,C,C,C
-61,3270,Abhishek Sunil Labade,P,P,P,P,A,P,P,P,7,1,87.5,8,10,7,8,7,6,9,6,C,NC,C,C,C,C,C,C
-62,3271,Karishma Shah,P,P,A,P,P,P,A,P,6,2,75.0,10,9,6,7,6,10,6,7,C,C,C,C,NC,C,C,NC
-63,3272,Vasu Zutshi,A,A,A,P,P,P,A,P,4,4,50.0,10,10,6,8,10,10,10,9,C,C,C,C,C,C,C,C
+Roll No,Name of Students,2019-12-16,2019-12-23,2019-12-30,2020-01-06,2020-01-13,2020-01-20,2020-01-27,2020-02-03,2020-02-10,2020-02-17,2020-02-24,2020-03-02,2020-03-09,2020-03-16,2020-03-23,2020-03-30,Present,Absent,%Att,MARKS1,MARKS2,MARKS3,MARKS4,MARKS5,MARKS6,MARKS7,MARKS8,MARKS9,MARKS10,MARKS11,MARKS12,MARKS13,MARKS14,MARKS15,MARKS16
+3249,Vitkar Mangesh Ganesh,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,14,2,87.5,10,6,6,6,6,9,6,6,10,6,10,6,7,8,10,10
+3250,Khatri Shrihari Gurudayal,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,A,13,3,81.2,10,10,9,6,6,8,8,10,10,8,8,10,8,8,6,8
+3251,Wagh Sujit Santosh,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,15,1,93.8,6,7,8,10,8,8,10,8,8,6,10,10,9,8,8,10
+3252,Wankhade Kunal Gopal,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,15,1,93.8,10,6,8,8,9,10,10,6,10,10,6,8,6,10,10,8
+3253,Yadav Rohan Suresh,P,P,A,P,P,P,P,P,P,P,P,P,A,A,P,P,13,3,81.2,6,6,10,10,6,10,10,8,6,10,6,10,8,6,10,8
+3254,Yermal Ozair ,P,A,P,P,A,P,P,A,A,P,P,P,P,A,P,P,11,5,68.8,8,10,8,6,7,9,9,10,10,8,8,10,8,9,6,6
+3255,Mahajan Malhar Mahesh,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,14,2,87.5,9,10,10,6,10,8,9,10,9,10,8,8,7,6,8,10
+3256,Munfan Akash Ramrao,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,14,2,87.5,8,10,10,9,8,6,8,6,6,10,8,10,10,6,10,8
+3257,Sakhare Ajinkya Girish,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,15,1,93.8,10,8,10,10,8,6,8,10,8,10,7,10,10,8,6,9
+3258,Adhav Rushikesh Rajendra,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,16,0,100.0,8,10,6,10,10,8,10,8,8,8,10,8,9,8,10,10
+3259,Joshi Atharva Jayant,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,14,2,87.5,10,10,6,8,8,8,6,10,7,8,10,8,10,10,8,6
+3260,Marne Prachi Sandeep,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,14,2,87.5,8,7,10,8,7,6,6,6,7,8,10,8,6,10,8,10
+3261,Barhate Bhushan Dnyandeo,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,16,0,100.0,6,6,6,8,8,9,10,8,10,8,8,7,7,10,10,10
+3262,Pawar Nikhil Shahaji,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,15,1,93.8,8,6,6,6,8,10,8,6,8,10,10,8,8,6,10,10
+3263,Ankita Prakash Thakurdware,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,14,2,87.5,9,8,10,9,8,6,8,8,10,6,6,8,10,10,8,8
+3264,Kale Dnyaneshwar Raosaheb,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,15,1,93.8,8,8,10,7,6,8,7,10,10,10,10,8,10,10,8,10
+3265,Hrushikesh Kishor Padal,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,15,1,93.8,7,10,8,8,9,10,8,6,8,8,6,6,10,8,6,10
+3266,Vishwadeep Vishnu Budhawant,A,P,A,P,P,P,A,P,A,P,P,P,P,A,P,P,11,5,68.8,10,6,8,10,6,10,6,8,8,10,8,8,9,10,8,7
+3267,Chatane Pranav Sudhir,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,16,0,100.0,6,6,6,6,7,6,7,6,10,9,9,8,10,8,8,7
+3268,Chintamani Harsh Santosh,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,15,1,93.8,10,6,8,6,9,6,10,8,8,10,8,10,9,10,6,10
+3269,Lawate Shashikant Muktaram,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,14,2,87.5,6,6,6,6,10,9,8,10,10,10,8,6,6,8,10,6
+3270,Abhishek Sunil Labade,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,14,2,87.5,8,8,6,8,10,6,8,6,8,7,10,6,10,9,10,10
+3271,Karishma Shah,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,14,2,87.5,10,10,10,8,6,10,9,10,8,6,8,10,6,8,6,10
+3272,Vasu Zutshi,P,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,14,2,87.5,8,10,8,10,6,10,8,8,6,6,9,9,9,9,10,10

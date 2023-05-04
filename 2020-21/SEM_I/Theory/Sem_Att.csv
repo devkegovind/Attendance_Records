@@ -1,66 +1,66 @@
-,Roll No,Name of Student,2020-08-06 00:00:00,2020-08-07 00:00:00,2020-08-10 00:00:00,2020-08-13 00:00:00,2020-08-14 00:00:00,2020-08-17 00:00:00,2020-08-20 00:00:00,2020-08-21 00:00:00,2020-08-24 00:00:00,2020-08-27 00:00:00,2020-08-28 00:00:00,2020-08-31 00:00:00,2020-09-03 00:00:00,2020-09-04 00:00:00,2020-09-10 00:00:00,2020-09-11 00:00:00,2020-09-14 00:00:00,2020-09-17 00:00:00,2020-09-18 00:00:00,2020-09-21 00:00:00,2020-09-24 00:00:00,2020-09-25 00:00:00,2020-09-28 00:00:00,2020-10-01 00:00:00,2020-10-02 00:00:00,2020-10-05 00:00:00,2020-10-08 00:00:00,2020-10-09 00:00:00,2020-10-15 00:00:00,2020-10-16 00:00:00,2020-10-19 00:00:00,2020-10-22 00:00:00,2020-10-23 00:00:00,2020-10-26 00:00:00,2020-10-29 00:00:00,Present,Absent,%Att,UT1,PREL
-0,4201,Kshirsagar Rohan Umesh,A,P,A,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,30,5,85.71,19,57
-1,4202,Kshirsagar Saurabh Bhaskarrao,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,30,5,85.71,20,26
-2,4203,Kulkarni Chinmay Sudhir,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,A,A,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,29,6,82.86,11,34
-3,4204,Kulkarni Vedant Shrikant,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,A,P,A,P,P,P,A,P,P,P,A,A,P,A,P,25,10,71.43,29,43
-4,4205,Kumkar Yadnesh Vishnu,A,P,P,P,P,P,A,P,A,P,P,A,A,P,P,P,A,P,P,P,A,A,A,P,P,P,P,P,P,P,P,P,P,A,P,25,10,71.43,23,32
-5,4206,Late Himanshu Ramesh,P,P,A,P,P,P,P,P,P,P,P,A,P,P,P,A,A,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,29,6,82.86,20,43
-6,4207,Lohot Yogesh Devidas,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,A,32,3,91.43,21,59
-7,4208,Lonkar Soham Sanjay,P,A,A,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,A,P,28,7,80.0,28,32
-8,4209,Kalaskar Abhishek Balasaheb,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,33,2,94.29,21,44
-9,4210,Mahajan Vedansh Ramkrishna,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,32,3,91.43,19,53
-10,4211,Mahamuni Arjun Sanjiv,P,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,A,A,P,A,P,P,P,P,29,6,82.86,12,46
-11,4212,Mali Kalpesh Rajesh,A,P,A,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,29,6,82.86,17,53
-12,4213,Mali Nikhil Pandurang,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,A,P,P,A,P,31,4,88.57,14,58
-13,4214,Mhaske Aditya Dattatraya,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,A,A,P,A,P,P,P,30,5,85.71,13,41
-14,4215,Nage Rohit Ravindra,P,P,P,P,P,A,P,P,P,A,A,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,30,5,85.71,19,47
-15,4216,Nimbalkar Shrihari Vilas,P,A,P,A,P,A,P,P,A,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,P,A,P,P,P,26,9,74.29,29,65
-16,4217,Panchal Mukesh Govind,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,31,4,88.57,22,37
-17,4218,Pandav Ashishkumar Laxman,P,P,P,P,P,P,A,A,P,A,A,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,28,7,80.0,15,30
-18,4219,Patil Akshay Dattatraya,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33,2,94.29,17,42
-19,4220,Patil Piyush,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,A,A,A,28,7,80.0,18,34
-20,4221,Pawar Nilesh Anil,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,A,P,P,30,5,85.71,22,65
-21,4222,Ashish Vilas Ghodke,P,P,P,P,P,A,A,P,A,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,28,7,80.0,16,42
-22,4223,Prathamesh Tukaram Bhor,P,P,P,P,P,P,P,P,P,A,A,P,P,A,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,30,5,85.71,27,52
-23,4224,Rakshit Ranu ,P,P,P,A,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,31,4,88.57,20,47
-24,4225,Rasane Swanand Anjali,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,A,A,A,P,A,P,P,A,A,P,P,P,P,P,P,26,9,74.29,13,51
-25,4226,Raskar Shubham Bhausaheb,P,P,P,P,P,P,P,P,P,A,A,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,A,P,P,29,6,82.86,10,61
-26,4227,Rokade Mandar Anil,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33,2,94.29,27,33
-27,4228,Rushikesh Vijay Gore,P,P,P,P,P,P,P,P,P,A,A,A,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,28,7,80.0,17,43
-28,4229,Sathaye Pranav Rajendra,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,33,2,94.29,12,41
-29,4230,Sonne Abhijeet Deepak,P,A,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,31,4,88.57,15,41
-30,4231,Suraj Milind Ghadge,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,A,31,4,88.57,10,57
-31,4232,Taskar Prasad Sanjay,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,A,A,P,P,29,6,82.86,17,43
-32,4233,Tayade Darshan Madhukar,P,A,P,P,A,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,A,A,P,P,P,P,P,P,P,P,P,28,7,80.0,16,43
-33,4234,Thorat Vaibhav Anant,P,A,P,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,31,4,88.57,11,28
-34,4235,Varpe Bhushan Dattatrya,P,A,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,30,5,85.71,15,62
-35,4236,Vitkar Mangesh Ganesh,A,P,P,P,A,P,P,P,P,P,P,P,P,P,A,A,P,P,P,A,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,28,7,80.0,30,29
-36,4237,Khatri Shrihari Gurudayal,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,31,4,88.57,18,48
-37,4238,Wagh Sujit Santosh,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,P,A,31,4,88.57,21,26
-38,4239,Wankhade Kunal Gopal,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,A,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,30,5,85.71,23,29
-39,4240,Yadav Rohan Suresh,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,31,4,88.57,30,28
-40,4241,Mahajan Malhar Mahesh,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,A,P,P,P,P,P,A,P,P,P,P,P,P,30,5,85.71,15,45
-41,4242,Munfan Akash Ramrao,P,P,P,P,P,P,P,P,A,P,A,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,31,4,88.57,25,46
-42,4243,Sakhare Ajinkya Girish,P,P,P,P,P,A,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,30,5,85.71,29,47
-43,4244,Adhav Rushikesh Rajendra,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,P,P,31,4,88.57,27,54
-44,4245,Joshi Atharva Jayant,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,31,4,88.57,13,62
-45,4246,Marne Prachi Sandeep,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,A,P,P,P,31,4,88.57,29,29
-46,4247,Barhate Bhushan Dnyandeo,P,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,A,A,P,P,P,P,A,P,P,P,P,P,29,6,82.86,10,26
-47,4248,Pawar Nikhil Shahaji,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,31,4,88.57,28,27
-48,4249,Kale Dnyaneshwar Raosaheb,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,31,4,88.57,18,62
-49,4250,Hrushikesh Kishor Padal,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,30,5,85.71,30,61
-50,4251,Vishwadeep Vishnu Budhawant,P,P,P,P,A,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,A,P,P,29,6,82.86,19,63
-51,4252,Chatane Pranav Sudhir,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,33,2,94.29,29,65
-52,4253,Chintamani Harsh Santosh,P,P,P,A,P,P,P,A,P,A,P,P,P,A,P,A,P,P,A,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,27,8,77.14,24,44
-53,4254,Lawate Shashikant Muktaram,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,A,A,P,P,P,P,P,P,P,P,P,31,4,88.57,16,29
-54,4255,Abhishek Sunil Labade,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,A,A,P,P,29,6,82.86,15,60
-55,4256,Karishma Shah,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,32,3,91.43,24,39
-56,4257,Vasu Zutshi,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,A,P,31,4,88.57,23,36
-57,4258,Yashraj Patil,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,A,P,A,30,5,85.71,18,32
-58,4259,Rajesh Santosh Chavan,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,32,3,91.43,30,60
-59,4260,Revati Tushar Tadge,A,P,P,P,A,P,A,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,A,P,P,P,P,P,P,P,A,P,P,P,A,27,8,77.14,29,51
-60,4261,Kulkarni Sushil Nandkumar,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,32,3,91.43,18,61
-61,4262,Saurabh Parmeshwar Borude,A,A,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,A,A,P,27,8,77.14,16,33
-62,4263,Suyesh Laxmikant Pillewar,P,P,A,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,29,6,82.86,29,45
-63,4264,Jungade Pranav Prashant,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,A,P,P,A,P,P,P,P,P,29,6,82.86,11,26
-64,4265,Sanjay  Pandey,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,32,3,91.43,13,31
+Roll No,Name of Student,2020-08-06,2020-08-07,2020-08-10,2020-08-13,2020-08-14,2020-08-17,2020-08-20,2020-08-21,2020-08-24,2020-08-27,2020-08-28,2020-08-31,2020-09-03,2020-09-04,2020-09-07,2020-09-10,2020-09-11,2020-09-14,2020-09-17,2020-09-18,2020-09-21,2020-09-24,2020-09-25,2020-09-28,2020-10-01,2020-10-05,2020-10-08,2020-10-09,2020-10-12,2020-10-15,2020-10-16,2020-10-19,2020-10-22,2020-10-23,2020-10-26,2020-10-30,2020-11-02,2020-11-05,2020-11-06,2020-11-09,2020-11-12,2020-11-13,2020-11-16,2020-11-19,2020-11-20,Present,Absent,%Att
+4201,Kshirsagar Rohan Umesh,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,41,4,91.0
+4202,Kshirsagar Saurabh Bhaskarrao,P,P,P,P,A,A,P,P,P,A,P,P,A,P,P,P,P,A,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,37,8,82.0
+4203,Kulkarni Chinmay Sudhir,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,39,6,87.0
+4204,Kulkarni Vedant Shrikant,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,A,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,38,7,84.0
+4205,Kumkar Yadnesh Vishnu,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,A,P,P,A,A,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,38,7,84.0
+4206,Late Himanshu Ramesh,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,42,3,93.0
+4207,Lohot Yogesh Devidas,A,P,P,A,A,A,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,38,7,84.0
+4208,Lonkar Soham Sanjay,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,A,P,P,A,P,A,P,P,A,P,P,P,P,P,38,7,84.0
+4209,Kalaskar Abhishek Balasaheb,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,40,5,89.0
+4210,Mahajan Vedansh Ramkrishna,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,A,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,39,6,87.0
+4211,Mahamuni Arjun Sanjiv,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,A,P,41,4,91.0
+4212,Mali Kalpesh Rajesh,P,P,A,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,A,P,P,P,A,A,P,P,P,P,P,P,A,P,P,A,A,P,P,A,P,A,P,P,P,P,34,11,76.0
+4213,Mali Nikhil Pandurang,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,42,3,93.0
+4214,Mhaske Aditya Dattatraya,P,P,P,P,P,P,P,A,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,41,4,91.0
+4215,Nage Rohit Ravindra,P,A,P,P,P,P,A,P,P,P,A,P,A,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,38,7,84.0
+4216,Nimbalkar Shrihari Vilas,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,P,A,A,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,A,P,P,P,P,P,P,P,P,P,38,7,84.0
+4217,Panchal Mukesh Govind,P,A,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,A,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,37,8,82.0
+4218,Pandav Ashishkumar Laxman,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,A,P,A,P,P,P,P,P,40,5,89.0
+4219,Patil Akshay Dattatraya,P,A,P,P,P,P,P,P,A,A,P,A,P,P,A,P,P,P,A,P,A,A,P,A,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,35,10,78.0
+4220,Patil Piyush,P,A,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,A,A,A,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,37,8,82.0
+4221,Pawar Nilesh Anil,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,41,4,91.0
+4222,Ashish Vilas Ghodke,A,A,A,P,P,P,P,P,P,P,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,A,A,P,35,10,78.0
+4223,Prathamesh Tukaram Bhor,P,P,P,P,P,A,A,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,A,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,38,7,84.0
+4224,Rakshit Ranu ,P,P,P,P,P,A,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,P,P,39,6,87.0
+4225,Rasane Swanand Anjali,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,A,P,P,A,A,P,A,P,P,P,P,P,P,P,A,P,A,P,P,A,P,P,P,P,P,P,P,P,36,9,80.0
+4226,Raskar Shubham Bhausaheb,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,A,P,P,A,P,P,P,P,P,P,40,5,89.0
+4227,Rokade Mandar Anil,P,P,P,P,A,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,40,5,89.0
+4228,Rushikesh Vijay Gore,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,41,4,91.0
+4229,Sathaye Pranav Rajendra,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,41,4,91.0
+4230,Sonne Abhijeet Deepak,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,A,P,P,P,P,39,6,87.0
+4231,Suraj Milind Ghadge,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,44,1,98.0
+4232,Taskar Prasad Sanjay,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,A,P,P,A,A,P,P,A,P,A,P,P,P,35,10,78.0
+4233,Tayade Darshan Madhukar,P,P,A,P,A,A,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,37,8,82.0
+4234,Thorat Vaibhav Anant,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,A,38,7,84.0
+4235,Varpe Bhushan Dattatrya,A,P,P,P,P,A,P,A,A,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,37,8,82.0
+4236,Vitkar Mangesh Ganesh,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,38,7,84.0
+4237,Khatri Shrihari Gurudayal,P,P,P,P,A,P,P,P,P,A,P,A,A,P,P,P,P,P,P,A,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,37,8,82.0
+4238,Wagh Sujit Santosh,P,A,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,40,5,89.0
+4239,Wankhade Kunal Gopal,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,41,4,91.0
+4240,Yadav Rohan Suresh,A,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,A,37,8,82.0
+4241,Mahajan Malhar Mahesh,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,39,6,87.0
+4242,Munfan Akash Ramrao,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,A,P,A,P,P,A,38,7,84.0
+4243,Sakhare Ajinkya Girish,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,41,4,91.0
+4244,Adhav Rushikesh Rajendra,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,40,5,89.0
+4245,Joshi Atharva Jayant,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,42,3,93.0
+4246,Marne Prachi Sandeep,A,A,P,P,P,P,P,A,A,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,36,9,80.0
+4247,Barhate Bhushan Dnyandeo,P,P,P,P,P,P,P,P,P,A,P,P,A,P,A,P,P,P,P,P,P,P,A,A,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,38,7,84.0
+4248,Pawar Nikhil Shahaji,A,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,38,7,84.0
+4249,Kale Dnyaneshwar Raosaheb,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,A,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,40,5,89.0
+4250,Hrushikesh Kishor Padal,P,P,P,A,P,P,P,A,A,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,39,6,87.0
+4251,Vishwadeep Vishnu Budhawant,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,A,P,P,A,P,P,P,P,39,6,87.0
+4252,Chatane Pranav Sudhir,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,A,P,A,P,P,P,P,P,P,A,P,P,P,37,8,82.0
+4253,Chintamani Harsh Santosh,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,A,P,P,P,P,A,P,37,8,82.0
+4254,Lawate Shashikant Muktaram,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,41,4,91.0
+4255,Abhishek Sunil Labade,A,P,P,P,P,P,P,P,P,P,P,A,P,A,A,P,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,A,P,P,P,A,P,P,P,A,A,P,35,10,78.0
+4256,Karishma Shah,P,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,42,3,93.0
+4257,Vasu Zutshi,P,P,P,P,P,A,P,A,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,40,5,89.0
+4258,Yashraj Patil,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,38,7,84.0
+4259,Rajesh Santosh Chavan,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,41,4,91.0
+4260,Revati Tushar Tadge,P,P,P,A,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,40,5,89.0
+4261,Kulkarni Sushil Nandkumar,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,41,4,91.0
+4262,Saurabh Parmeshwar Borude,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,40,5,89.0
+4263,Suyesh Laxmikant Pillewar,P,P,A,P,P,A,P,P,P,P,A,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,A,P,36,9,80.0
+4264,Jungade Pranav Prashant,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,A,P,P,P,P,P,40,5,89.0
+4265,Sanjay  Pandey,P,P,P,P,P,P,A,P,P,P,P,P,A,P,A,P,P,P,P,A,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,P,P,38,7,84.0
