@@ -1,0 +1,66 @@
+Roll No,Name of Student,2020-08-06,2020-08-07,2020-08-10,2020-08-13,2020-08-14,2020-08-17,2020-08-20,2020-08-21,2020-08-24,2020-08-27,2020-08-28,2020-08-31,2020-09-03,2020-09-04,Present,Absent,%SUB,%SUB2,%SUB3,%SUB4,%SUB5,%AVG
+4201,Kshirsagar Rohan Umesh,P,P,P,A,P,A,P,P,A,P,A,P,P,P,10,4,71.0,86.0,79.0,86.0,79.0,80.2
+4202,Kshirsagar Saurabh Bhaskarrao,A,A,P,P,P,P,P,P,A,P,P,A,A,P,9,5,64.0,86.0,79.0,79.0,71.0,75.8
+4203,Kulkarni Chinmay Sudhir,P,P,P,P,P,P,P,P,P,P,A,A,A,P,11,3,79.0,64.0,79.0,50.0,93.0,73.0
+4204,Kulkarni Vedant Shrikant,P,P,A,P,P,P,P,A,P,P,A,P,P,P,11,3,79.0,79.0,79.0,86.0,64.0,77.4
+4205,Kumkar Yadnesh Vishnu,A,A,P,A,P,P,A,A,P,A,P,P,P,P,8,6,57.0,71.0,93.0,93.0,93.0,81.4
+4206,Late Himanshu Ramesh,P,A,P,P,P,P,P,P,P,P,P,P,P,P,13,1,93.0,79.0,64.0,86.0,71.0,78.6
+4207,Lohot Yogesh Devidas,P,P,P,P,A,P,A,P,P,P,P,A,P,P,11,3,79.0,93.0,64.0,64.0,71.0,74.2
+4208,Lonkar Soham Sanjay,P,P,P,P,P,P,P,P,P,P,A,P,A,P,12,2,86.0,79.0,79.0,50.0,71.0,73.0
+4209,Kalaskar Abhishek Balasaheb,P,P,P,P,P,A,P,P,P,A,P,P,P,P,12,2,86.0,71.0,86.0,64.0,86.0,78.6
+4210,Mahajan Vedansh Ramkrishna,P,A,P,P,P,P,P,P,A,P,P,P,P,A,11,3,79.0,86.0,71.0,64.0,86.0,77.2
+4211,Mahamuni Arjun Sanjiv,P,A,P,A,P,A,P,P,P,P,P,P,P,P,11,3,79.0,86.0,79.0,64.0,79.0,77.4
+4212,Mali Kalpesh Rajesh,P,P,P,P,P,A,P,A,P,P,P,P,P,P,12,2,86.0,93.0,93.0,71.0,79.0,84.4
+4213,Mali Nikhil Pandurang,P,P,P,P,P,P,P,A,A,A,P,P,P,A,10,4,71.0,79.0,71.0,79.0,79.0,75.8
+4214,Mhaske Aditya Dattatraya,P,P,A,P,P,P,A,P,P,P,A,P,P,P,11,3,79.0,71.0,79.0,64.0,93.0,77.2
+4215,Nage Rohit Ravindra,P,P,A,A,P,P,P,P,P,P,A,P,A,P,10,4,71.0,86.0,64.0,79.0,86.0,77.2
+4216,Nimbalkar Shrihari Vilas,P,P,P,P,P,P,A,P,P,A,P,A,A,P,10,4,71.0,64.0,71.0,86.0,71.0,72.6
+4217,Panchal Mukesh Govind,P,P,P,P,P,P,P,P,A,P,P,P,P,A,12,2,86.0,86.0,64.0,71.0,79.0,77.2
+4218,Pandav Ashishkumar Laxman,P,P,A,P,P,A,P,P,P,P,P,P,P,P,12,2,86.0,86.0,86.0,86.0,79.0,84.6
+4219,Patil Akshay Dattatraya,P,A,P,P,P,P,A,P,A,P,A,P,P,P,10,4,71.0,71.0,86.0,64.0,86.0,75.6
+4220,Patil Piyush,P,P,P,P,P,A,P,P,P,P,P,P,P,A,12,2,86.0,79.0,79.0,79.0,86.0,81.8
+4221,Pawar Nilesh Anil,A,A,P,P,P,P,P,P,P,P,P,P,P,A,11,3,79.0,79.0,79.0,79.0,79.0,79.0
+4222,Ashish Vilas Ghodke,P,P,P,P,P,P,P,A,P,P,A,A,P,P,11,3,79.0,86.0,71.0,79.0,93.0,81.6
+4223,Prathamesh Tukaram Bhor,A,P,A,P,A,P,P,P,A,P,A,P,P,P,9,5,64.0,71.0,79.0,64.0,93.0,74.2
+4224,Rakshit Ranu ,P,A,A,P,P,A,A,A,A,P,P,A,P,P,7,7,50.0,79.0,79.0,64.0,93.0,73.0
+4225,Rasane Swanand Anjali,P,P,P,P,P,P,P,A,A,P,A,P,P,A,10,4,71.0,86.0,79.0,64.0,93.0,78.6
+4226,Raskar Shubham Bhausaheb,P,P,P,A,P,P,P,P,A,A,A,P,A,P,9,5,64.0,79.0,86.0,71.0,86.0,77.2
+4227,Rokade Mandar Anil,A,P,P,P,P,P,P,P,A,P,P,P,A,P,11,3,79.0,71.0,79.0,71.0,71.0,74.2
+4228,Rushikesh Vijay Gore,P,P,A,A,P,P,P,P,P,P,P,A,P,P,11,3,79.0,86.0,71.0,64.0,86.0,77.2
+4229,Sathaye Pranav Rajendra,P,P,A,P,P,P,P,A,P,P,P,P,P,P,12,2,86.0,93.0,57.0,64.0,71.0,74.2
+4230,Sonne Abhijeet Deepak,P,P,P,P,A,A,A,P,P,P,A,P,P,A,9,5,64.0,64.0,64.0,71.0,86.0,69.8
+4231,Suraj Milind Ghadge,P,P,A,A,P,P,P,A,P,P,P,A,A,P,9,5,64.0,86.0,71.0,50.0,86.0,71.4
+4232,Taskar Prasad Sanjay,A,P,P,P,A,A,P,P,P,P,A,A,P,P,9,5,64.0,64.0,79.0,57.0,71.0,67.0
+4233,Tayade Darshan Madhukar,A,P,A,P,P,P,P,P,P,P,P,P,P,P,12,2,86.0,64.0,71.0,64.0,71.0,71.2
+4234,Thorat Vaibhav Anant,A,P,A,P,P,P,P,P,A,P,P,A,A,P,9,5,64.0,79.0,79.0,93.0,86.0,80.2
+4235,Varpe Bhushan Dattatrya,P,A,P,P,P,P,P,P,P,P,P,P,P,P,13,1,93.0,86.0,79.0,79.0,71.0,81.6
+4236,Vitkar Mangesh Ganesh,P,A,P,A,P,P,P,A,A,P,P,P,P,P,10,4,71.0,71.0,79.0,79.0,71.0,74.2
+4237,Khatri Shrihari Gurudayal,A,P,P,P,P,P,P,P,P,P,P,P,A,P,12,2,86.0,71.0,57.0,93.0,64.0,74.2
+4238,Wagh Sujit Santosh,P,P,A,P,P,A,P,P,A,A,P,P,P,P,10,4,71.0,93.0,71.0,79.0,64.0,75.6
+4239,Wankhade Kunal Gopal,A,P,P,A,P,P,P,A,A,A,P,P,P,P,9,5,64.0,71.0,93.0,71.0,79.0,75.6
+4240,Yadav Rohan Suresh,P,A,P,P,P,P,A,P,P,P,P,P,P,A,11,3,79.0,50.0,71.0,86.0,64.0,70.0
+4241,Mahajan Malhar Mahesh,A,A,A,A,P,P,A,P,P,A,P,P,A,P,7,7,50.0,86.0,71.0,93.0,79.0,75.8
+4242,Munfan Akash Ramrao,A,P,P,P,P,P,P,P,P,P,P,P,P,P,13,1,93.0,86.0,79.0,64.0,86.0,81.6
+4243,Sakhare Ajinkya Girish,P,P,A,P,P,P,P,A,P,A,A,P,A,A,8,6,57.0,57.0,64.0,79.0,86.0,68.6
+4244,Adhav Rushikesh Rajendra,P,P,P,P,P,P,P,P,P,P,A,P,A,P,12,2,86.0,86.0,79.0,71.0,93.0,83.0
+4245,Joshi Atharva Jayant,P,P,P,A,P,P,P,P,P,P,P,P,P,P,13,1,93.0,86.0,64.0,64.0,71.0,75.6
+4246,Marne Prachi Sandeep,A,A,A,P,P,P,A,P,P,A,P,P,P,A,8,6,57.0,71.0,64.0,64.0,86.0,68.4
+4247,Barhate Bhushan Dnyandeo,P,P,P,P,P,P,A,P,P,P,P,P,P,P,13,1,93.0,86.0,93.0,64.0,71.0,81.4
+4248,Pawar Nikhil Shahaji,A,P,A,P,P,A,P,A,P,P,P,P,P,P,10,4,71.0,71.0,64.0,57.0,71.0,66.8
+4249,Kale Dnyaneshwar Raosaheb,P,A,A,P,A,A,P,P,P,P,P,P,P,P,10,4,71.0,71.0,57.0,79.0,57.0,67.0
+4250,Hrushikesh Kishor Padal,A,P,A,P,P,P,P,P,P,A,A,P,P,A,9,5,64.0,71.0,64.0,79.0,79.0,71.4
+4251,Vishwadeep Vishnu Budhawant,P,P,P,P,A,P,P,P,A,P,P,P,P,A,11,3,79.0,64.0,79.0,93.0,64.0,75.8
+4252,Chatane Pranav Sudhir,P,P,P,P,P,P,A,P,P,P,P,P,A,A,11,3,79.0,79.0,64.0,64.0,86.0,74.4
+4253,Chintamani Harsh Santosh,P,A,A,P,A,P,P,P,P,P,P,P,A,A,9,5,64.0,64.0,79.0,64.0,71.0,68.4
+4254,Lawate Shashikant Muktaram,P,A,A,A,P,P,P,P,P,P,A,P,P,P,10,4,71.0,64.0,71.0,86.0,79.0,74.2
+4255,Abhishek Sunil Labade,P,P,P,P,A,P,A,P,P,P,P,P,P,P,12,2,86.0,79.0,64.0,64.0,86.0,75.8
+4256,Karishma Shah,P,P,P,P,A,P,P,P,P,P,P,P,P,A,12,2,86.0,79.0,86.0,93.0,50.0,78.8
+4257,Vasu Zutshi,A,P,P,P,P,P,P,P,P,P,P,A,P,P,12,2,86.0,86.0,79.0,64.0,71.0,77.2
+4258,Yashraj Patil,P,P,A,A,P,P,P,P,P,A,P,A,A,P,9,5,64.0,79.0,64.0,93.0,57.0,71.4
+4259,Rajesh Santosh Chavan,A,P,P,P,P,P,P,P,P,P,A,A,P,P,11,3,79.0,79.0,79.0,71.0,71.0,75.8
+4260,Revati Tushar Tadge,P,P,A,P,P,P,P,A,P,A,A,P,P,P,10,4,71.0,71.0,57.0,71.0,93.0,72.6
+4261,Kulkarni Sushil Nandkumar,P,P,P,P,P,P,P,A,A,P,P,P,A,P,11,3,79.0,57.0,50.0,64.0,86.0,67.2
+4262,Saurabh Parmeshwar Borude,P,P,P,P,P,A,P,A,P,P,P,A,P,A,10,4,71.0,57.0,64.0,79.0,86.0,71.4
+4263,Suyesh Laxmikant Pillewar,A,P,P,P,P,P,P,P,A,P,P,P,P,P,12,2,86.0,79.0,64.0,79.0,71.0,75.8
+4264,Jungade Pranav Prashant,A,P,P,P,P,P,P,P,P,P,P,P,P,P,13,1,93.0,64.0,86.0,64.0,71.0,75.6
+4265,Sanjay  Pandey,A,P,A,P,P,P,P,P,A,P,P,A,P,A,9,5,64.0,79.0,79.0,64.0,93.0,75.8

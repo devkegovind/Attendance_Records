@@ -1,0 +1,24 @@
+Roll No,Name of Student,2022-08-01,2022-08-02,2022-08-03,2022-08-04,2022-08-09,2022-08-10,2022-08-11,2022-08-16,2022-08-17,2022-08-18,2022-08-22,2022-08-23,2022-08-24,2022-08-25,2022-08-29,2022-08-30,2022-08-31,2022-09-01,2022-09-05,2022-09-06,2022-09-07,2022-09-08,2022-09-12,2022-09-13,2022-09-14,2022-09-15,2022-09-19,2022-09-20,2022-09-21,2022-09-22,2022-09-26,2022-09-27,2022-09-28,2022-09-29,2022-10-03,2022-10-04,2022-10-05,2022-10-06,2022-10-10,2022-10-11,2022-10-12,2022-10-13,Present,Absent,%Att
+T5001,Aman Govind,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,A,P,P,P,A,P,P,A,P,P,A,P,P,P,35,7,83.0
+T5002,Barve Harshvardhan Vijay,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,A,P,P,A,P,P,A,P,A,34,8,81.0
+T5003,Bhosale Harshad Ramchandra,P,P,P,P,A,A,P,P,P,A,P,P,P,P,P,P,P,P,A,P,A,P,P,A,P,A,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,A,32,10,76.0
+T5004,Deshmukh Abhishek Subhashrao,P,A,A,P,P,P,P,A,P,P,P,P,P,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,36,6,86.0
+T5005,Dhamale Piyush Shivajirao,P,P,P,P,P,P,P,P,A,P,A,A,P,P,P,A,P,P,P,P,A,P,P,P,A,P,P,P,P,A,P,P,P,P,A,P,P,P,A,P,P,P,33,9,79.0
+T5006,Ghule Gaurav Sandeep,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,39,3,93.0
+T5007,Gorhe Swamiraj Ramesh,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,A,P,P,P,P,A,P,P,P,36,6,86.0
+T5008,Gosavi Durvangee Sadanand,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,A,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,A,P,34,8,81.0
+T5009,Inamdar Amaan Amir,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,38,4,90.0
+T5010,Jambhale Prathamesh Sanjay,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,38,4,90.0
+T5011,Kadam Omkar Rajesh,A,P,P,P,P,P,P,P,A,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,35,7,83.0
+T5012,Kulkarni Aditya Shivram,P,P,P,A,P,P,P,P,P,P,P,P,A,A,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,36,6,86.0
+T5013,Kutwade Vaibhav Anil,P,A,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,A,P,P,37,5,88.0
+T5014,Parth Raghunath Sawardekar,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,37,5,88.0
+T5015,Phulsundar Piyush Mahendra,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,A,P,P,P,P,A,P,P,P,P,P,A,A,P,P,P,A,P,35,7,83.0
+T5016,Qureshi Moinuddin Yunus,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,P,38,4,90.0
+T5017,Sanket Sharad Satyapal,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,A,P,P,P,A,A,P,A,P,P,36,6,86.0
+T5018,Saraf Shreyas Sandip,P,P,A,A,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,A,A,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,A,A,A,A,P,P,30,12,71.0
+T5019,Sonavane Yashodhan Vikas,P,P,P,P,A,P,P,P,P,P,P,A,P,A,P,P,A,A,P,P,P,A,P,A,P,P,A,P,A,P,A,P,P,P,P,P,P,P,P,P,P,A,31,11,74.0
+T5020,Thube Prajwal Vasant,P,P,A,P,P,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,A,P,A,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,A,35,7,83.0
+T5021,Vanjari Vaibhav Vinod,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,A,P,P,P,A,P,A,A,P,P,P,P,P,A,P,P,P,A,P,P,P,P,P,P,P,34,8,81.0
+T5022,Wakode Amol Mukunda,A,P,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,A,P,P,P,P,P,P,P,P,P,P,P,P,A,P,P,A,P,P,P,A,P,P,P,P,36,6,86.0
+T5023,Wani Ashok Rameshwar,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,P,P,P,P,P,A,P,A,P,A,P,P,A,P,P,P,A,P,P,P,P,A,P,33,9,79.0

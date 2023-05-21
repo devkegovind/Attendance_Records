@@ -1,0 +1,55 @@
+ROLL NO,NAME OF STUDENTS,2018-07-19,2018-07-20,2018-07-24,2018-07-26,2018-07-27,2018-07-31,2018-08-02,2018-08-03,2018-08-07,2018-08-09,2018-08-10,2018-08-14,2018-08-16,2018-08-17,Present,Absent,%SUB,%SUB2,%SUB3,%SUB4,%SUB5,%AVG
+1,Adalinge Sagar Bandu,P,P,P,P,P,P,A,A,P,P,P,P,P,P,12,2,86.0,86.0,86.0,93.0,93.0,88.8
+2,Anande Prithvi Anant,P,P,A,P,P,P,P,P,A,A,P,P,P,P,11,3,79.0,86.0,93.0,100.0,86.0,88.8
+3,Awari Pratik Balasaheb,P,P,P,P,P,A,P,P,P,P,P,A,P,P,12,2,86.0,93.0,86.0,79.0,86.0,86.0
+4,Bakal Gauri Krushnarao,P,P,P,P,P,P,P,P,P,P,P,A,P,P,13,1,93.0,86.0,86.0,100.0,93.0,91.6
+5,Bankar Vishal Uttam,P,P,P,P,P,A,A,P,A,P,P,A,A,P,9,5,64.0,93.0,71.0,100.0,86.0,82.8
+6,Bhosale Omkar Vikas,P,P,P,P,P,P,P,P,P,P,P,A,P,P,13,1,93.0,71.0,64.0,71.0,86.0,77.0
+7,Chinchole Shital Nana,P,P,P,A,P,P,P,P,P,P,P,P,P,P,13,1,93.0,86.0,93.0,86.0,79.0,87.4
+8,Devale Shamrao Baburao,P,A,P,P,P,A,A,P,A,A,P,P,P,P,9,5,64.0,86.0,64.0,86.0,71.0,74.2
+9,Dhayarkar Nikhil Chandrabhan,P,P,A,P,P,P,P,P,P,P,P,P,P,P,13,1,93.0,93.0,100.0,79.0,93.0,91.6
+10,Ghadage Aishwarya Manaji,P,P,P,P,P,P,P,P,A,P,P,P,P,A,12,2,86.0,93.0,100.0,86.0,100.0,93.0
+11,Gondkar Shubham Arvind,P,P,P,P,P,P,P,P,P,A,P,P,P,P,13,1,93.0,86.0,86.0,93.0,79.0,87.4
+12,Gund Ajit Bhausaheb,A,P,A,P,P,P,A,P,P,P,P,P,P,A,10,4,71.0,93.0,86.0,86.0,93.0,85.8
+13,Jadhav Mayank Pravin,P,P,P,P,P,P,P,P,A,P,P,P,P,P,13,1,93.0,93.0,86.0,86.0,71.0,85.8
+14,Jadhav Priyanka Pandurang,A,P,P,P,A,P,P,A,P,P,A,P,P,P,10,4,71.0,71.0,86.0,64.0,86.0,75.6
+15,Jalkumarbachubhai Vashi,P,P,P,P,P,P,P,P,P,P,P,A,A,P,12,2,86.0,79.0,86.0,79.0,93.0,84.6
+16,Khairnar Prasad Pradhan,P,P,P,P,A,P,A,P,P,P,P,P,P,P,12,2,86.0,86.0,93.0,64.0,100.0,85.8
+17,Khan Mehandi Hasan Hafeez Khan,A,P,P,P,P,P,P,P,P,A,A,P,P,P,11,3,79.0,64.0,86.0,86.0,71.0,77.2
+18,Kolse Sahil Ashok,P,A,P,P,P,P,A,P,A,P,P,P,P,P,11,3,79.0,93.0,86.0,100.0,93.0,90.2
+19,Lokhande Nilesh Mahendra,P,P,P,A,P,P,P,P,P,P,A,P,P,A,11,3,79.0,93.0,86.0,79.0,93.0,86.0
+20,Manke Ujjwal Rajesh,P,P,P,P,P,P,A,P,P,P,P,A,P,P,12,2,86.0,79.0,79.0,71.0,86.0,80.2
+21,Mali Pawan Shriram,P,P,P,P,A,P,P,P,P,P,P,P,P,P,13,1,93.0,93.0,79.0,86.0,79.0,86.0
+22,Madake Ramprasad Balasaheb,P,A,P,P,P,A,P,P,P,P,P,P,P,P,12,2,86.0,93.0,93.0,86.0,86.0,88.8
+23,Moghe Ameya Sunil,A,P,P,P,P,P,P,P,P,A,P,P,P,P,12,2,86.0,86.0,86.0,93.0,86.0,87.4
+24,Nadkarni Mangesh Na,A,P,P,P,P,P,P,P,P,P,P,P,P,P,13,1,93.0,64.0,86.0,86.0,93.0,84.4
+25,Ombase Aniket Avinash,A,P,P,A,P,P,P,P,P,P,P,P,P,P,12,2,86.0,86.0,93.0,86.0,86.0,87.4
+26,Pisal Shubham Shashikant,A,P,P,P,P,P,P,P,P,P,P,P,P,P,13,1,93.0,86.0,86.0,86.0,93.0,88.8
+27,Patil Manish Nadkishor,P,P,P,P,P,P,P,P,P,P,P,P,P,P,14,0,100.0,79.0,86.0,86.0,93.0,88.8
+28,Rasal Sourabh Sanjay,P,A,P,P,P,P,A,P,P,P,P,P,P,A,11,3,79.0,93.0,100.0,86.0,86.0,88.8
+29,Shelgaonkar Viraj Vijaykumar,P,P,P,P,P,P,A,P,P,P,P,P,P,A,12,2,86.0,93.0,64.0,71.0,93.0,81.4
+30,Shinde Sagar Ravindra,P,P,P,P,P,P,A,P,P,P,P,P,P,P,13,1,93.0,86.0,79.0,100.0,93.0,90.2
+31,Shedage Avadhut Vijay,P,P,P,A,P,A,P,P,P,P,P,P,P,A,11,3,79.0,86.0,93.0,93.0,86.0,87.4
+32,Somwanshi Sourabh Sanjay,P,P,P,P,P,A,A,P,P,P,P,P,A,P,11,3,79.0,100.0,79.0,86.0,79.0,84.6
+33,Sonawane Shivam Mahendra,P,P,P,P,P,P,P,P,P,P,P,P,P,A,13,1,93.0,93.0,64.0,93.0,86.0,85.8
+34,Somvanshi Swapnil Baburao,P,P,P,P,P,P,P,P,P,P,P,P,P,P,14,0,100.0,86.0,93.0,86.0,86.0,90.2
+35,Todkar Sagar Vijay,P,P,P,P,P,P,P,P,P,P,A,P,P,P,13,1,93.0,93.0,86.0,79.0,86.0,87.4
+36,Wagaskar Suyog Chandrakant,P,P,P,P,P,P,P,P,P,P,P,P,P,A,13,1,93.0,71.0,71.0,71.0,93.0,79.8
+37,Wagh Mangesh Kamlakar,A,P,P,A,P,P,P,P,P,P,P,P,P,P,12,2,86.0,79.0,86.0,100.0,100.0,90.2
+38,Mane Kiran Pralhad,P,P,P,P,A,P,P,P,P,A,P,P,P,P,12,2,86.0,100.0,100.0,79.0,86.0,90.2
+39,Kamble Rushikesh Khanderao,P,P,P,P,P,P,P,P,P,A,P,P,P,A,12,2,86.0,71.0,71.0,71.0,86.0,77.0
+40,Jadhav Ashwamedh Yallappa,A,P,P,P,P,P,P,A,P,P,P,A,A,P,10,4,71.0,86.0,86.0,93.0,93.0,85.8
+41,Gawhande Vivek Sanjay,P,P,P,P,P,P,P,P,P,P,P,P,A,P,13,1,93.0,86.0,64.0,64.0,93.0,80.0
+42,Dhumal Aditya Sanjay,P,P,P,A,P,P,P,P,P,P,A,P,P,P,12,2,86.0,93.0,93.0,79.0,93.0,88.8
+43,Bakshe Gavrav Deelip,P,P,P,A,P,P,P,P,P,P,P,P,A,P,12,2,86.0,86.0,93.0,93.0,100.0,91.6
+44,Rathod Vivek Vilas,P,P,P,P,P,P,P,P,P,P,P,P,P,P,14,0,100.0,93.0,93.0,93.0,93.0,94.4
+45,Bhat Prachi Balasaheb,P,P,P,P,A,P,P,P,P,P,P,P,P,A,12,2,86.0,93.0,93.0,79.0,86.0,87.4
+46,Narkhede Dimpal Sunil (Pa),P,P,P,P,P,A,A,P,P,P,P,P,P,P,12,2,86.0,93.0,86.0,93.0,86.0,88.8
+47,Patel Jayesh Hari,P,P,P,A,P,P,A,P,P,P,P,P,P,P,12,2,86.0,86.0,79.0,86.0,79.0,83.2
+48,Pawar Saurabh Shrikant,A,A,P,P,P,P,A,A,P,P,P,A,P,P,9,5,64.0,79.0,86.0,86.0,93.0,81.6
+49,Adhat Saurabh Kailash,P,P,P,P,P,P,A,A,P,P,P,P,P,P,12,2,86.0,64.0,93.0,93.0,93.0,85.8
+50,Shah Gaurish Milind,P,P,P,A,P,P,P,P,P,P,P,P,P,P,13,1,93.0,79.0,93.0,93.0,93.0,90.2
+51,Chaudhari Anurag Sandip,P,P,P,A,P,P,P,P,P,P,P,P,P,P,13,1,93.0,86.0,86.0,93.0,93.0,90.2
+52,Motiwale Sumit Somnath,P,P,P,P,P,A,A,P,P,P,P,P,P,P,12,2,86.0,71.0,86.0,86.0,71.0,80.0
+53,Hasegaonkar Atharv Ramesh,P,P,P,P,A,P,A,P,A,P,P,P,P,A,10,4,71.0,79.0,93.0,86.0,79.0,81.6
+54,Khandekar Akshay Vidish,P,P,A,P,P,P,P,P,P,P,P,P,A,P,12,2,86.0,71.0,93.0,93.0,71.0,82.8
